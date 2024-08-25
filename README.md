@@ -1,2 +1,1 @@
-# myspringdemo
-demo project
+Eric Thomas
